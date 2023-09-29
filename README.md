@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Daniel, um desenvolvedor Front-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Hello, I'm Daniel, a Front-end developer passionate about programming!</h1>
 
 <p align="center">
 <a href="https://www.instagram.com/danielpdelima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,10 +9,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 15 anos de idade, quando queria criar um robo de esteira com arduino. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente na modalidade drift, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 👨🏻‍💻 &nbsp;I had my first contact with lines of code when I was 15 years old, when I wanted to create a treadmill robot with Arduino. I realized that I could customize it any way I wanted, just by writing lines of code — and that fascinated me deeply. Since then, I decided that I wanted to do this with my life — I wanted to be a programmer.
+- 🚀 &nbsp; Currently, my main career focus is web and mobile development. I use the JavaScript stack (Node, React & React Native) to develop on both fronts.
+- 🏎 &nbsp; I'm passionate about motorsport, especially drifting, and I usually play simulators in my free time. It's what I like to do the most to have fun and clear my head haha!
+- 💵 &nbsp; I also really like investments, the financial market and economics.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -28,10 +28,11 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Backend and database:</h3>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=plastic)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
