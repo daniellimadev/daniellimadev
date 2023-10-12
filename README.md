@@ -37,10 +37,5 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<div align="center">
-  <a href="https://github.com/daniellimadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellimadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellimadev&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
   
