@@ -37,7 +37,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellimadev&show_icons=true&theme=dracula&count_private=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daniellimadev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellimadev)](https://github.com/anuraghazra/github-readme-stats)
 
