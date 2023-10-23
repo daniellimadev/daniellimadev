@@ -1,11 +1,5 @@
 <h1>👋 &nbsp;Hello, I'm Daniel, a Front-end developer passionate about programming!</h1>
 
-<p align="center">
-  <a href = "mailto:pdaniel643@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielpereiralima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</p>
-
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp;I had my first contact with lines of code when I was 15 years old, when I wanted to create a treadmill robot with Arduino. I realized that I could customize it any way I wanted, just by writing lines of code — and that fascinated me deeply. Since then, I decided that I wanted to do this with my life — I wanted to be a programmer.
@@ -13,34 +7,52 @@
 - 🏎 &nbsp; I'm passionate about motorsport, especially drifting, and I usually play simulators in my free time. It's what I like to do the most to have fun and clear my head haha!
 - 💵 &nbsp; I also really like investments, the financial market and economics.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+ ### Connect with me:
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">][linkedin]
 
-<h3>⚙️ &nbsp;Backend and database:</h3>
+##  Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=plastic)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+### 🛠 Languages and Tools:
+<div>
+  <img align="left" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="left" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="left" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="kotlin" height="30" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+  <img align="left" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</div>
+
+<br/>
+
+### ⚙️ Framework:
+<div>
+  <img align="left" alt="SpringBoot" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+  <img align="left" alt="Angular" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
+  <img align="left" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="left" alt="BootStrap" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  <img align="left" alt=".Net" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" />
+</div>
+
+<br/>
+
+### 🗃 BaseData:
+<div>
+  <img align="left" alt="Mysql" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Postgresql" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="left" alt="MongoDB" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+<br/>
+<br/>
+
+<div>
+  <!--<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lferlr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>-->
+  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniellimadev&theme=radical"/>
+</div>
+<img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniellimadev&theme=radical"/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daniellimadev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellimadev)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+[linkedin]: https://www.linkedin.com/in/danielpereiralima/
   
