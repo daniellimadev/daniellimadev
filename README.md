@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hello, I'm Daniel, a Front-end developer passionate about programming!</h1>
+<h1>👋 &nbsp;Hello, I'm Daniel, a Full Stack developer passionate about programming!</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
